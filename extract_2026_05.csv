@@ -1,0 +1,42 @@
+snapshot_date,case_id,client_id,client_name,worker,team,referral_source,status,region,support_package
+2026-05-31,CASE-0001,CL-1001,Client 0001,Marcus Adeyemi,Hospital discharge,Safeguarding,Active,Ward 4,Supported living
+2026-05-31,CASE-0002,CL-1002,Client 0002,Yvonne Asante,Safeguarding,ASC referral,New,Ward 2,
+2026-05-31,CASE-0003,CL-1003,Client 0003,Marcus Adeyemi,North locality,DoLS,Active,Ward 5,Residential care
+2026-05-31,CASE-0004,CL-1004,Client 0004,Connor Whitfield,North locality,ASC referral,Assessment,Ward 1,
+2026-05-31,CASE-0005,CL-1005,Client 0005,Connor Whitfield,South locality,Safeguarding,New,Ward 5,
+2026-05-31,CASE-0006,CL-1006,Client 0006,Connor Whitfield,North locality,S117,New,Ward 1,
+2026-05-31,CASE-0007,CL-1007,Client 0007,Yvonne Asante,South locality,ASC referral,Active,Ward 2,Residential care
+2026-05-31,CASE-0008,CL-1008,Client 0008,Marcus Adeyemi,Hospital discharge,ASC referral,New,Ward 3,
+2026-05-31,CASE-0009,CL-1009,Client 0009,Connor Whitfield,Safeguarding,ASC referral,Review,Ward 2,Home care
+2026-05-31,CASE-0010,CL-1010,Client 0010,Sophie Kendrick,Hospital discharge,ASC referral,Assessment,Ward 2,
+2026-05-31,CASE-0011,CL-1011,Client 0011,Raj Bhattacharya,Hospital discharge,Safeguarding,New,Ward 5,
+2026-05-31,CASE-0012,CL-1012,Client 0012,Raj Bhattacharya,North locality,ASC referral,Review,Ward 3,Residential care
+2026-05-31,CASE-0013,CL-1013,Client 0013,Marcus Adeyemi,North locality,DoLS,New,Ward 1,
+2026-05-31,CASE-0014,CL-1014,Client 0014,Connor Whitfield,North locality,Safeguarding,Active,Ward 5,Home care
+2026-05-31,CASE-0015,CL-1015,Client 0015,Sophie Kendrick,Hospital discharge,Safeguarding,New,Ward 3,
+2026-05-31,CASE-0016,CL-1016,Client 0016,Connor Whitfield,Hospital discharge,S117,New,Ward 1,
+2026-05-31,CASE-0017,CL-1017,Client 0017,Raj Bhattacharya,Safeguarding,S117,Review,Ward 4,Direct payment
+2026-05-31,CASE-0018,CL-1018,Client 0018,Helen Trescott,Hospital discharge,S117,New,Ward 1,
+2026-05-31,CASE-0019,CL-1019,Client 0019,Raj Bhattacharya,Hospital discharge,Safeguarding,New,Ward 5,
+2026-05-31,CASE-0020,CL-1020,Client 0020,Yvonne Asante,North locality,S117,Assessment,Ward 4,
+2026-05-31,CASE-0021,CL-1021,Client 0021,Yvonne Asante,Hospital discharge,S117,Assessment,Ward 3,
+2026-05-31,CASE-0022,CL-1022,Client 0022,Raj Bhattacharya,Hospital discharge,S117,New,Ward 3,
+2026-05-31,CASE-0023,CL-1023,Client 0023,Marcus Adeyemi,South locality,ASC referral,New,Ward 4,
+2026-05-31,CASE-0024,CL-1024,Client 0024,Marcus Adeyemi,South locality,DoLS,New,Ward 5,
+2026-05-31,CASE-0025,CL-1025,Client 0025,Marcus Adeyemi,South locality,Safeguarding,Assessment,Ward 2,
+2026-05-31,CASE-0026,CL-1026,Client 0026,Connor Whitfield,South locality,DoLS,New,Ward 2,
+2026-05-31,CASE-0027,CL-1027,Client 0027,Connor Whitfield,South locality,Safeguarding,Active,Ward 5,Day care
+2026-05-31,CASE-0028,CL-1028,Client 0028,Marcus Adeyemi,Safeguarding,Safeguarding,Review,Ward 1,Supported living
+2026-05-31,CASE-0029,CL-1029,Client 0029,Helen Trescott,Safeguarding,S117,Active,Ward 2,Nursing care
+2026-05-31,CASE-0030,CL-1030,Client 0030,Raj Bhattacharya,Safeguarding,S117,Assessment,Ward 3,
+2026-05-31,CASE-0031,CL-1031,Client 0031,Raj Bhattacharya,North locality,ASC referral,Assessment,Ward 4,
+2026-05-31,CASE-0032,CL-1032,Client 0032,Yvonne Asante,South locality,S117,Active,Ward 4,Day care
+2026-05-31,CASE-0033,CL-1033,Client 0033,Helen Trescott,North locality,S117,Closed,Ward 4,Nursing care
+2026-05-31,CASE-0034,CL-1034,Client 0034,Marcus Adeyemi,Hospital discharge,Safeguarding,New,Ward 5,
+2026-05-31,CASE-0035,CL-1035,Client 0035,Marcus Adeyemi,Safeguarding,ASC referral,Review,Ward 3,Day care
+2026-05-31,CASE-0036,CL-1036,Client 0036,Raj Bhattacharya,Safeguarding,ASC referral,Active,Ward 5,Supported living
+2026-05-31,CASE-0037,CL-1037,Client 0037,Raj Bhattacharya,Hospital discharge,Safeguarding,Active,Ward 5,Direct payment
+2026-05-31,CASE-0038,CL-1038,Client 0038,Sophie Kendrick,Safeguarding,ASC referral,Active,Ward 3,Home care
+2026-05-31,CASE-0039,CL-1039,Client 0039,Marcus Adeyemi,South locality,S117,Active,Ward 2,Supported living
+2026-05-31,CASE-0040,CL-1040,Client 0040,Connor Whitfield,Safeguarding,ASC referral,Review,Ward 3,Reablement
+2026-05-31,CASE-0041,CL-1041,Client 0041,Sophie Kendrick,Hospital discharge,S117,New,Ward 2,
